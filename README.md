@@ -1,7 +1,7 @@
 # BEDU Curso Tecnolochicas Programación con Java
 Actividades del curso de BEDU de Tecnolochicas Programación con Java.
 
-📚 Contenidos del Curso
+##📚 Contenidos del Curso
 Introducción a Java y al entorno IntelliJ IDEA
 Variables, tipos de datos y operadores
 Estructuras de control: condicionales y bucles
